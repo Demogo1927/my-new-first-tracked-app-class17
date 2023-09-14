@@ -10,8 +10,7 @@ understanding snapshot
 create a second snapshot
 we are working with two branches namely master and dev
 devops is interesting and pays well
-=======
 i am now going to skip using vim to add a comment in my second commit 
 ### this is a comment in MD file added
 understanding branching
->>>>>>> dev
+my master branch is locked
