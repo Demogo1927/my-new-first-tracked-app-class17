@@ -1,0 +1,3 @@
+This is for understanding the PULL command
+The PULL command is the opposite of PUSH
+NEVER NEVER !!!!!! MAKE CHANEGES DIRECTLY FROM THE REPO LIKE I AM DOING RIGTH NOW THIS SIMPLY FOR DEMONSTRATION
